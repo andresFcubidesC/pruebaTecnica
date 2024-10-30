@@ -17,3 +17,11 @@ Antes de comenzar, asegúrate de tener instalados los siguientes componentes en 
    ```bash
    git clone <url_del_repositorio>
    cd <nombre_del_proyecto>
+
+2. Crea el pakete del proyecto
+
+3. Sube el archivo WAR en el servidor WildFly
+
+4. ve a la ruta he interactua con la pagina.
+
+EN DADO CASO DE DUDAS PORFAVOR COMUNICARSE CON ANDRES CUBIDES
